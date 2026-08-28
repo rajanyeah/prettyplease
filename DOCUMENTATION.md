@@ -1,8 +1,8 @@
 # prettyplease — A Content-Based Beauty Product Recommender
 
 **Author:** Rajanya
-**Repo:** [ADD YOUR GITHUB LINK]
-**Live demo:** [ADD YOUR STREAMLIT CLOUD LINK]
+**Repo:** (https://github.com/rajanyeah/prettyplease/tree/main)
+**Live demo:** (https://prettyplease.streamlit.app)
 
 ---
 
